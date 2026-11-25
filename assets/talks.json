@@ -1,0 +1,256 @@
+{
+ "talks": [
+  {
+   "place": "Government College of Engineering, Karad",
+   "city": "Karad, Maharashtra",
+   "lat": 17.29,
+   "lon": 74.18,
+   "when": "February 2019",
+   "what": "TEDxGCEK: Contextual Education System for India",
+   "kind": "TEDx"
+  },
+  {
+   "place": "Cambridge Institute of Technology, Bengaluru",
+   "city": "Bengaluru, Karnataka",
+   "lat": 13.03,
+   "lon": 77.7,
+   "when": "September 2021",
+   "what": "TEDxCITBengaluru: 5 ways to make online classes more interesting",
+   "kind": "TEDx"
+  },
+  {
+   "place": "IEEE Computer Society India Symposium",
+   "city": "Prayagraj, Uttar Pradesh",
+   "lat": 25.43,
+   "lon": 81.85,
+   "when": "2017",
+   "what": "Talk at the national symposium",
+   "kind": "IEEE"
+  },
+  {
+   "place": "IEEE Computer Society India Symposium",
+   "city": "Bodh Gaya, Bihar",
+   "lat": 24.7,
+   "lon": 84.99,
+   "when": "2018",
+   "what": "Talk at the national symposium",
+   "kind": "IEEE"
+  },
+  {
+   "place": "Kalasalingam University",
+   "city": "Krishnankoil, Tamil Nadu",
+   "lat": 9.57,
+   "lon": 77.68,
+   "when": "September 2017",
+   "what": "Invited speaker, IEEE Tirunelveli Hub Congress: technical resources and website tools for IEEE volunteers",
+   "kind": "IEEE"
+  },
+  {
+   "place": "Jansons Institute of Technology",
+   "city": "Coimbatore, Tamil Nadu",
+   "lat": 11.07,
+   "lon": 77.1,
+   "when": "August 2019",
+   "what": "IEEE SPAC 2019: felicitation address and a talk on building your first AI model without code",
+   "kind": "IEEE"
+  },
+  {
+   "place": "G. Pulla Reddy Engineering College",
+   "city": "Kurnool, Andhra Pradesh",
+   "lat": 15.8,
+   "lon": 78.04,
+   "when": "2016",
+   "what": "Chief guest, IEEE Day celebrations",
+   "kind": "IEEE"
+  },
+  {
+   "place": "MES College of Engineering",
+   "city": "Kuttippuram, Kerala",
+   "lat": 10.83,
+   "lon": 76.03,
+   "when": "February 2020",
+   "what": "Chief guest, IEEE Student Branch annual general body meeting",
+   "kind": "IEEE"
+  },
+  {
+   "place": "Jeppiaar Institute of Technology",
+   "city": "Chennai, Tamil Nadu",
+   "lat": 12.9,
+   "lon": 79.98,
+   "when": "September 2016",
+   "what": "IEEE student branch event",
+   "kind": "IEEE"
+  },
+  {
+   "place": "Sri Muthukumaran Institute of Technology",
+   "city": "Chennai, Tamil Nadu",
+   "lat": 13.03,
+   "lon": 80.08,
+   "when": "",
+   "what": "Chief guest at my alma mater",
+   "kind": "IEEE"
+  },
+  {
+   "place": "SASTRA University",
+   "city": "Thanjavur, Tamil Nadu",
+   "lat": 10.73,
+   "lon": 79.02,
+   "when": "",
+   "what": "Program for students",
+   "kind": "Skills"
+  },
+  {
+   "place": "SSN College of Engineering",
+   "city": "Chennai, Tamil Nadu",
+   "lat": 12.75,
+   "lon": 80.2,
+   "when": "",
+   "what": "Program for students",
+   "kind": "Skills"
+  },
+  {
+   "place": "SRM Institute of Science and Technology",
+   "city": "Chennai, Tamil Nadu",
+   "lat": 12.82,
+   "lon": 80.04,
+   "when": "",
+   "what": "Program for students",
+   "kind": "Skills"
+  },
+  {
+   "place": "Sri Sai Ram Engineering College",
+   "city": "Chennai, Tamil Nadu",
+   "lat": 12.96,
+   "lon": 80.06,
+   "when": "April 2023, and from 2025",
+   "what": "Chief guest and panel lead at the IEEE Computer Society chapter award ceremony (2023); Assistant Professor of Practice, Big Data Analytics and Public Policy (from 2025)",
+   "kind": "IEEE"
+  },
+  {
+   "place": "Thiagarajar College of Engineering",
+   "city": "Madurai, Tamil Nadu",
+   "lat": 9.88,
+   "lon": 78.08,
+   "when": "February 2025",
+   "what": "IEEE MAS SIGHT Hub Summit: SDGs for Communities",
+   "kind": "IEEE"
+  },
+  {
+   "place": "Xavier College of Engineering",
+   "city": "Nagercoil, Tamil Nadu",
+   "lat": 8.18,
+   "lon": 77.41,
+   "when": "April 2024",
+   "what": "For IEEE ProComm: 10 soft skills for every engineer and how to build them",
+   "kind": "IEEE"
+  },
+  {
+   "place": "Vaagdevi College of Engineering",
+   "city": "Warangal, Telangana",
+   "lat": 17.98,
+   "lon": 79.6,
+   "when": "February 2018",
+   "what": "Sentience 2.0: Coopetitive Engineering, plus a talk to students at the Vandemataram Foundation with the college's IEEE WIE group",
+   "kind": "IEEE"
+  },
+  {
+   "place": "Kongu Engineering College",
+   "city": "Erode, Tamil Nadu",
+   "lat": 11.27,
+   "lon": 77.61,
+   "when": "March 2019",
+   "what": "Speaker at Avanzare v13.0, IEEE Student Branch",
+   "kind": "IEEE"
+  },
+  {
+   "place": "VIT Chennai",
+   "city": "Chennai, Tamil Nadu",
+   "lat": 12.84,
+   "lon": 80.15,
+   "when": "2019",
+   "what": "Student Leadership Forum: workshop on student competitions and volunteering",
+   "kind": "IEEE"
+  },
+  {
+   "place": "Shinshu University",
+   "city": "Nagano, Japan",
+   "lat": 36.63,
+   "lon": 138.19,
+   "when": "April 2025",
+   "what": "IEEE ProComm Japan special lecture: why engineers need communication skills for global success",
+   "kind": "IEEE"
+  },
+  {
+   "place": "University of New South Wales",
+   "city": "Sydney, Australia",
+   "lat": -33.9173,
+   "lon": 151.2313,
+   "when": "October 2021",
+   "what": "Crafting Your IEEE Volunteering Journey, for the IEEE UNSW Student Branch",
+   "kind": "IEEE"
+  },
+  {
+   "place": "Boston University",
+   "city": "Boston, USA",
+   "lat": 42.3505,
+   "lon": -71.1054,
+   "when": "August 2026",
+   "what": "IEEE Young Professionals Summit session: Staying Relevant in the Age of AI, The Human Skills That Still Matter",
+   "kind": "IEEE"
+  },
+  {
+   "place": "Velammal Engineering College",
+   "city": "Chennai, Tamil Nadu",
+   "lat": 13.1503,
+   "lon": 80.1919,
+   "when": "July 2018",
+   "what": "IEEE talk for 60+ students on member benefits and opportunities",
+   "kind": "IEEE"
+  },
+  {
+   "place": "Kumaraguru College of Technology",
+   "city": "Coimbatore, Tamil Nadu",
+   "lat": 11.0777,
+   "lon": 76.9895,
+   "when": "September 2019",
+   "what": "Interaction with 200+ students across engineering departments",
+   "kind": "IEEE"
+  },
+  {
+   "place": "Sasi Institute of Technology and Engineering",
+   "city": "Tadepalligudem, Andhra Pradesh",
+   "lat": 16.8097,
+   "lon": 81.5267,
+   "when": "September 2019",
+   "what": "IEEE ProComm Young Professionals workshop on professional communication",
+   "kind": "IEEE"
+  },
+  {
+   "place": "Goa Engineering College",
+   "city": "Ponda, Goa",
+   "lat": 15.4136,
+   "lon": 73.9806,
+   "when": "October 2018",
+   "what": "Program Chair, AICSSYWLC 2018, the All India IEEE Computer Society Student and Young Professional Congress",
+   "kind": "IEEE"
+  },
+  {
+   "place": "Birla Institute of Technology, Patna",
+   "city": "Patna, Bihar",
+   "lat": 25.6203,
+   "lon": 85.1724,
+   "when": "March 2018",
+   "what": "Design Thinkers visit during the IEEE CS India Symposium 2018",
+   "kind": "IEEE"
+  },
+  {
+   "place": "National Institute of Technology Karnataka",
+   "city": "Surathkal, Karnataka",
+   "lat": 13.0108,
+   "lon": 74.7943,
+   "when": "December 2018",
+   "what": "Women in Technology Summit (WITS)",
+   "kind": "IEEE"
+  }
+ ]
+}
